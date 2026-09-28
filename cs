@@ -1,6 +1,5 @@
 {
-  "spider": "https://codeberg.org/zheermao/mybx/raw/branch/main/jar/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce",
-  "wallpaper": "https://bing.img.run/uhd.php",
+  "spider": "./fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce",
   "sites": [
     {
       "key": "dbzy_tv",
