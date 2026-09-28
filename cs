@@ -3,15 +3,6 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
     {
-      "key": "iqiyizyapi_com",
-      "name": "🎬-爱奇艺-",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "dbzy_tv",
       "name": "🎬豆瓣资源",
       "type": 1,
@@ -34,6 +25,15 @@
       "name": "🎬卧龙资源",
       "type": 1,
       "api": "https://wolongzyw.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "iqiyizyapi_com",
+      "name": "🎬-爱奇艺-",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
