@@ -1,5 +1,5 @@
 {
-  "spider": "./wex.jar;md5;fc8f993c9297d38139363cd0e3db9853",
+  "spider": "./wex260923.jar;md5;fc8f993c9297d38139363cd0e3db9853",
   "sites": [
     {
       "key": "MyPan",
