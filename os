@@ -1,5 +1,5 @@
 {
-  "spider": "./OS.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
+  "spider": "./os.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
   "sites": [
     {
       "key": "360资源ZZ",
