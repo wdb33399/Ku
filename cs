@@ -280,10 +280,6 @@
       "changeable": 1
     },
     {
-      "key": "1",
-      "name": "--- 1 ---"
-    },
-    {
       "key": "荐片",
       "name": "荐片[js]",
       "type": 3,
@@ -300,17 +296,6 @@
       "name": "apple[js]",
       "type": 3,
       "api": "./xs/apple.js"
-    },
-    {
-      "key": "聚合短剧",
-      "name": "聚合短剧[js]",
-      "type": 3,
-      "api": "./xs/聚合短剧.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
     },
     {
       "key": "巧技五",
