@@ -2,15 +2,6 @@
   "spider": "http://118.89.172.248:8025/jar/tan.php",
   "sites": [
     {
-      "key": "Star2",
-      "name": "💖┃剧透┃4K💖",
-      "type": 3,
-      "api": "csp_Star2",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "{\"site\":[\"https://1.star2.cn\"],\"name\":\"剧透社\"}"
-    },
-    {
       "key": "Gz360",
       "name": "🍂┃瓜子┃秒播",
       "type": 3,
@@ -182,87 +173,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "戏 曲",
-      "name": "🎈┃国粹┃戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/Blixq.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "🏮┃相声┃小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/Blixs.json"
-    },
-    {
-      "key": "演唱会",
-      "name": "🎸┃演唱会┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/演唱会.json"
-    },
-    {
-      "key": "MTV",
-      "name": "🎧┃明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/MTV.json"
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "🅱┃️哔哩┃大全",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/Bili.json"
-    },
-    {
-      "key": "csp_Bili短剧",
-      "name": "🅱️┃哔哩┃短剧",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/Bili短剧.json"
-    },
-    {
-      "key": "影视解说",
-      "name": "🎬┃影视┃解说",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://z.qiqiv.cn/666/json/影视解说.json"
-    },
-    {
-      "key": "push_agent",
-      "name": "资源加载更新....",
-      "type": 3,
-      "filterable": 0,
-      "changeable": 0,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": ""
     }
   ],
   "parses": [
