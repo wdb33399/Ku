@@ -1,6 +1,115 @@
 {
   "spider": "http://118.89.172.248:8025/jar/tan.php",
+  "wallpaper": "https://动态壁纸.饭.eu.org/",
+  "lives": [
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://118.89.172.248:8025/jar/zb.php",
+      "playerType": 1
+    },
+    {
+      "name": "Guovin",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
+    },
+    {
+      "name": "港澳台",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1
+    }
+  ],
   "sites": [
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "💥最新软件接口❤Link3.cc/uuccc❤💥",
+      "type": 3,
+      "api": "csp_Douban",
+      "ext": "https://gitee.com/jiandan1232/BabyOS/raw/master/test/douban.json",
+      "jar": "http://118.89.172.248:8025/jar/tan2.php"
+    },
+    {
+      "key": "配置中心",
+      "name": "⚙️┃配置┃中心⚙️",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "http://118.89.172.248:8025/jar/lubin.php"
+    },
+    {
+      "key": "JianSou",
+      "name": "💖┃简搜┃4K💖",
+      "type": 3,
+      "api": "csp_JianSou",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": {
+        "site": "http://118.89.172.248:8000",
+        "type": 0,
+        "name": " 简搜"
+      }
+    },
+    {
+      "key": "ZhiZhenPanCms",
+      "name": "💖┃至臻┃4K💖",
+      "type": 3,
+      "api": "csp_PanCms",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "{\"site\":[\"http://118.89.172.248:22776\"],\"name\":\"网盘CMS\"}"
+    },
+    {
+      "key": "MuouPanCms",
+      "name": "💖┃木偶┃4K💖",
+      "type": 3,
+      "api": "csp_PanCms",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "{\"site\":[\"https://www.muoua.top\",\"https://666.666291.xyz\",\"https://333.333291.xyz\",\"https://www.muou.asia\"],\"name\":\"网盘CMS\"}"
+    },
+    {
+      "key": "DuoPanCms",
+      "name": "💖┃多多┃4K💖",
+      "type": 3,
+      "api": "csp_PanCms",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "{\"site\":[\"https://tv.yydsys.top\",\"https://tv.yydsys.cc\",\"https://tv.214521.xyz\"],\"name\":\"网盘CMS\"}"
+    },
+    {
+      "key": "KuaiYPanCms",
+      "name": "💖┃快映┃4K💖",
+      "type": 3,
+      "api": "csp_PanCms",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "{\"site\":[\"http://38.76.197.172:12521\"],\"name\":\"网盘CMS\"}"
+    },
+    {
+      "key": "HuBanYPanCms",
+      "name": "💖┃虎斑┃4K💖",
+      "type": 3,
+      "api": "csp_PanCms",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "{\"site\":[\"http://38.76.197.172:16969\"],\"name\":\"网盘CMS\"}"
+    },
+    {
+      "key": "Star2",
+      "name": "💖┃剧透┃4K💖",
+      "type": 3,
+      "api": "csp_Star2",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "{\"site\":[\"https://1.star2.cn\"],\"name\":\"剧透社\"}"
+    },
     {
       "key": "Gz360",
       "name": "🍂┃瓜子┃秒播",
@@ -173,6 +282,87 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "戏 曲",
+      "name": "🎈┃国粹┃戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://z.qiqiv.cn/666/json/Blixq.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "🏮┃相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://z.qiqiv.cn/666/json/Blixs.json"
+    },
+    {
+      "key": "演唱会",
+      "name": "🎸┃演唱会┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://z.qiqiv.cn/666/json/演唱会.json"
+    },
+    {
+      "key": "MTV",
+      "name": "🎧┃明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://z.qiqiv.cn/666/json/MTV.json"
+    },
+    {
+      "key": "哔哩哔哩",
+      "name": "🅱┃️哔哩┃大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://z.qiqiv.cn/666/json/Bili.json"
+    },
+    {
+      "key": "csp_Bili短剧",
+      "name": "🅱️┃哔哩┃短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://z.qiqiv.cn/666/json/Bili短剧.json"
+    },
+    {
+      "key": "影视解说",
+      "name": "🎬┃影视┃解说",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://z.qiqiv.cn/666/json/影视解说.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "资源加载更新....",
+      "type": 3,
+      "filterable": 0,
+      "changeable": 0,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": ""
     }
   ],
   "parses": [
