@@ -1,5 +1,5 @@
 {
-  "spider": "./ysc20261103.jar;md5;076163bf1992fa9ff43bafe0e5aee351",
+  "spider": "./ysc20261109.jar;md5;6cbff839f343cd55be30f3eb18ddc27c",
   "lives": [
     {
       "name": "直播1",
@@ -159,7 +159,7 @@
     },
     {
       "key": "lzi",
-      "name": "量子资源",
+      "name": "🍂┃量子┃资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
