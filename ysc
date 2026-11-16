@@ -158,6 +158,27 @@
       "filterable": 1
     },
     {
+      "key": "dyttzy",
+      "name": "🍂┃电影┃天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "爱情片",
+        "纪录片",
+        "动画片",
+        "欧美剧",
+        "香港剧"
+      ]
+    },
+    {
       "key": "lzi",
       "name": "🍂┃量子┃资源",
       "type": 1,
